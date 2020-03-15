@@ -3,7 +3,7 @@ cd ~/blog/github.com/alansantosmg
 sleep 3
 echo
 mydate=`date "+%F"`
-tar -czvf $mydate-hugoblog.tar.gz
+tar -czvf $mydate-hugoblog.tar.gz ./hugoblog
 sleep 3
 cd ~/blog/github.com/alansantosmg/hugoblog
 git add .
