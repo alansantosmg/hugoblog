@@ -1,4 +1,4 @@
-baseURL = "http://alansantosmg.netlify.com"
+baseURL = "https://alansantosmg.netlify.com"
 title = "Alan Santos"
 theme = "zzo"
 
@@ -9,7 +9,7 @@ hasCJKLanguage = true
 summaryLength = 70
 buildFuture = true
 
-copyright = "&copy;{year}, All Rights Reserved"
+copyright = "&copy;{year}, "Todos os direitos reservados"
 timeout = 10000
 enableEmoji = true
 paginate = 13
