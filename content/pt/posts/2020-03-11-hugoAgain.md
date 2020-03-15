@@ -9,6 +9,15 @@ date: "2020-03-11T15:34:54Z"
 tags:
 - HUGO
 - Go
+author: Alan Santos
+authorEmoji: 🤖
+authorDesc: IT Consultant
+authorImage "/images/whoami/avatar.jpg"
+socialOptions:
+  linkedin:"https://linkedin.com/in/alansantosmg"
+  github: "https://alansantosmg.github.io"
+  instagram: "https://instagram.com/alansantosmg"
+  email: "https://alansantosmg@gmail.com"
 ---
 
 ## O longo caminho de volta
