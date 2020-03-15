@@ -1,0 +1,14 @@
+[en]
+  title = "Hugo Zzo Theme"
+  languageName = "English"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/en"
+
+
+[pt]
+  title = "Alan Santos"
+  languageName = "Português"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/pt"
