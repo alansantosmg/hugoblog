@@ -2,7 +2,6 @@
 author: Alan
 categories:
 - Gestão
-classes: text-justify
 date: "2020-01-30T14:21:31Z"
 description: Resenha - O que podemos aprender com as startups do Vale do Silício. Um livro sobre a inovação em um mundo extremamente competitivo.
 tags:
