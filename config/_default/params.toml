@@ -47,7 +47,7 @@ enableSearchHighlight = true # when true, search keyword will be highlighted
 
 enableGoToTop = true # scroll to top
 
-enableWhoami = false # at the end of single page
+enableWhoami = true # at the end of single page
 
 summaryShape = "classic" # card, classic, compact
 

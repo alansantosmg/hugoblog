@@ -10,7 +10,7 @@ tags:
 - HUGO
 - Go
 author: Alan Santos
-authorEmoji: 🤖
+authorEmoji: 👨🏻‍💻
 authorDesc: IT Consultant
 authorImage: "/images/whoami/avatar.jpg"
 ---
