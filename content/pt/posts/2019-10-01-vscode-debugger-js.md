@@ -1,5 +1,8 @@
 ---
-author: Alan
+author: Alan Santos
+authorEmoji: 👨🏻‍💻
+authorDesc: Consultor em TI | Mestre em Sistemas de informação
+authorImage: "/images/whoami/avatar.jpg"
 categories:
 - Dev
 description: Nada mais chato do que ter que ficar saindo do VSCode para debugar o código javascript no navegador. Porém descobri um jeito de parametrizar o debugger do VScode para realizar essa tarefa.

@@ -1,5 +1,8 @@
 ---
-author: Alan
+author: Alan Santos
+authorEmoji: 👨🏻‍💻
+authorDesc: Consultor em TI | Mestre em Sistemas de informação
+authorImage: "/images/whoami/avatar.jpg"
 categories:
 - Dev
 date: "2019-09-25T00:00:00Z"

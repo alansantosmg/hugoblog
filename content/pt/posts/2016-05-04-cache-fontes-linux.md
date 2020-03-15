@@ -1,7 +1,10 @@
 ---
 categories:
 - DevOps
-author: Alan
+author: Alan Santos
+authorEmoji: 👨🏻‍💻
+authorDesc: Consultor em TI | Mestre em Sistemas de informação
+authorImage: "/images/whoami/avatar.jpg"
 date: "2016-05-04T00:00:00Z"
 tag:
 - Linux

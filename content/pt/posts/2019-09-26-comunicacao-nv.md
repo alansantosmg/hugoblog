@@ -1,8 +1,10 @@
 ---
-author: Alan
+author: Alan Santos
+authorEmoji: 👨🏻‍💻
+authorDesc: Consultor em TI | Mestre em Sistemas de informação
+authorImage: "/images/whoami/avatar.jpg"
 categories:
 - Gestão
-classes: text-justify
 date: "2019-09-26T00:00:00Z"
 description: Resenha - Um livro sobre técnicas de relacionamentos pessoais e profissionais para se comunicar melhor em um mundo pautado por conflitos.
 tags:

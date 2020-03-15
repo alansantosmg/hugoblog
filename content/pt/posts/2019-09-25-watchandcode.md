@@ -1,5 +1,8 @@
 ---
-author: Alan
+author: Alan Santos
+authorEmoji: 👨🏻‍💻
+authorDesc: Consultor em TI | Mestre em Sistemas de informação
+authorImage: "/images/whoami/avatar.jpg"
 categories:
 - Dev
 description: Não sou muito de sair por aí fazendo propaganda, mas encontrei um curso de javascript básico que mostra como construir uma aplicação do zero, de forma bem eficaz e escalável.

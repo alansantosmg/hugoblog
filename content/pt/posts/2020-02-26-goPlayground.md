@@ -1,10 +1,12 @@
 ---
 title: Golang Playground
 description: Aprendendo Go sem instalar compilador. Uma forma interessante de aprender a linguagem testando pequenos trechos de código no próprio navegador web.
-author: Alan
+author: Alan Santos
+authorEmoji: 👨🏻‍💻
+authorDesc: Consultor em TI | Mestre em Sistemas de informação
+authorImage: "/images/whoami/avatar.jpg"
 categories:
 - Dev
-classes: text-justify
 date: "2020-02-26T15:34:54Z"
 tags:
 - Go

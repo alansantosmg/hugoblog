@@ -1,5 +1,8 @@
 ---
-author: Alan
+author: Alan Santos
+authorEmoji: 👨🏻‍💻
+authorDesc: Consultor em TI | Mestre em Sistemas de informação
+authorImage: "/images/whoami/avatar.jpg"
 categories:
 - DevOps
 date: "2019-10-07T00:00:00Z"

@@ -1,5 +1,8 @@
 ---
-author: Alan
+author: Alan Santos
+authorEmoji: 👨🏻‍💻
+authorDesc: Consultor em TI | Mestre em Sistemas de informação
+authorImage: "/images/whoami/avatar.jpg"
 categories:
 - Dev
 description: Para começar 2020 com o pé direito, resolvi aprender algo novo. Saiba porque escolhi aprender a utilizar efetivamente o Editor Vim e de quebra aprenda alguns atalhos de teclado interessantes.

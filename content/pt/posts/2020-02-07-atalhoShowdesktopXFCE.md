@@ -1,8 +1,10 @@
 ---
-author: Alan
+author: Alan Santos
+authorEmoji: 👨🏻‍💻
+authorDesc: Consultor em TI | Mestre em Sistemas de informação
+authorImage: "/images/whoami/avatar.jpg"
 categories:
 - DevOps
-classes: wide
 date: "2020-02-07T15:34:54Z"
 tags:
 - Linux

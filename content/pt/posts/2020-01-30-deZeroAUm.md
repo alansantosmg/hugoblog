@@ -1,8 +1,10 @@
 ---
-author: Alan
+author: Alan Santos
+authorEmoji: 👨🏻‍💻
+authorDesc: Consultor em TI | Mestre em Sistemas de informação
+authorImage: "/images/whoami/avatar.jpg"
 categories:
 - Gestão
-classes: text-justify
 date: "2020-01-30T14:21:31Z"
 description: Resenha - O que podemos aprender com as startups do Vale do Silício. Um livro sobre a inovação em um mundo extremamente competitivo.
 tags:

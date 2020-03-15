@@ -1,4 +1,7 @@
 ---
+authorEmoji: 👨🏻‍💻
+authorDesc: Consultor em TI | Mestre em Sistemas de informação
+authorImage: "/images/whoami/avatar.jpg"
 author: Alan
 categories:
 - Dev
