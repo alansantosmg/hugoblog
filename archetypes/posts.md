@@ -6,7 +6,7 @@ toc: true
 author: Alan Santos
 authorEmoji: 🤖
 authorDesc: IT Consultant
-authorImage "/images/whoami/avatar.jpg"
+authorImage: "/images/whoami/avatar.jpg"
 socialOptions:
   linkedin:"https://linkedin.com/in/alansantosmg"
   github: "https://alansantosmg.github.io"
