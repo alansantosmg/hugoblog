@@ -11,7 +11,7 @@ tags:
 - Go
 author: Alan Santos
 authorEmoji: 👨🏻‍💻
-authorDesc: IT Consultant
+authorDesc: Consultor em TI | Mestre em Sistemas de informação
 authorImage: "/images/whoami/avatar.jpg"
 ---
 
