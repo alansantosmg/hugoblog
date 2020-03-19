@@ -14,9 +14,9 @@ Em mais de 20 anos de profissão, já atuei como analista de suporte, de process
   * Desenvolvimento **JamStack** com html, css, Javascript, Golang (Go).
   * Frameworks **JamStack** como HUGO, HEXO, JEKYLL, GATSBY.
   * Plataformas de nuvem: AWS, MS-Azure e CDNs com CI/CD.
-  * Sistema de gestão de produção Kanban.{{< /boxmd >}} {{< button href="../resume" width="230px" height="36px" color="primary" background-color="#4CAF50" >}}Currículo Vitae{{< /button >}}
-{{< /boxmd >}} {{< button href=https://1drv.ms/p/s!Ail9Fcx6TKnWjMgOlCBQGahDg5Ru3Q?e=xj0cFD" width="230px" height="36px" color="primary" background-color="#4CAF50" >}}Portfólio{{< /button>}}
+  * Sistema de gestão de produção Kanban.{{< /boxmd >}} {{< button href="../resume" width="230px" height="36px" color="primary" background-color="#4CAF50" >}}Currículo Vitae{{< /button >}} {{< button href="https://1drv.ms/p/s!Ail9Fcx6TKnWjMgOlCBQGahDg5Ru3Q?e=xj0cFD" width="230px" height="36px" color="primary" background-color="#4CAF50" >}}Portfólio{{< /button>}}
 
+{{< /boxmd >}}
 **Em computadores:** {{< boxmd >}}
 
 Atualmente utilizo o sistema operacional:
