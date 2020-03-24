@@ -1,5 +1,5 @@
 ---
-title: "Software para transmissão de lives (free!)"
+title: "Software para transmissão de lives (free)"
 date: 2020-03-24T10:29:54-03:00
 description: "Em tempos de Covid, muitas empresas precisarão contar com recursos de gravação de videos e transmissão de lives pela Internet. Com dinheiro escasso, nada como um software livre fácil instalar, configurar, que pode ser usado em Windows, Linux e Mac, para gravações de video e realização de lives com qualidade profissional. Conheça um deles."
 toc: true
@@ -12,8 +12,6 @@ categories:
 tags:
 - Covid
 meta_image: "/images/meta/obs.png"
-image:
-draft: false
 ---
 
 ##  Introdução
