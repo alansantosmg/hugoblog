@@ -1,7 +1,7 @@
 ---
 title: "Software para transmissão de lives (free)"
 date: 2020-03-24T10:29:54-03:00
-description: "Em tempos de Covid, muitas empresas precisarão contar com recursos de gravação de videos e transmissão de lives pela Internet. Com dinheiro escasso, nada como um software livre fácil instalar, configurar, que pode ser usado em Windows, Linux e Mac, para gravações de video e realização de lives com qualidade profissional. Conheça um deles."
+description: "Em tempos de Covid, muitas empresas precisarão contar com recursos de gravação de videos e transmissão de lives pela Internet. Com dinheiro escasso, nada como um software livre fácil instalar, configurar, que pode ser usado em Windows, Linux e Mac, para gravações de video e realização de lives com qualidade profissional."
 toc: true
 author: Alan Santos
 authorEmoji: 👨🏻‍💻
@@ -19,7 +19,7 @@ Olá pessoal. Hoje vou dar mais uma contribuição para ajudar a superarmos os t
 
 No último post eu falei sobre uma ferramenta free para videoconfêrencia, O Zoom, que pode ser utilizado de forma grátis para aulas e reuniões   online.
 
-Hoje vou falar de uma ferramenta de software livre para criação de videos e edição e transmissão de videos com ar mais "profissional". Essa ferramenta é o **Obs Studio - Open Broadcaster Software**.
+Hoje vou falar de uma ferramenta de software livre para criação, edição e transmissão de videos com aspecto mais "profissional", para internet. Essa ferramenta é o **Obs Studio - Open Broadcaster Software**.
 
 ## Obs Studio
 
