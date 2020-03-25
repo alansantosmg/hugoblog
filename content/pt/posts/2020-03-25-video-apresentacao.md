@@ -19,7 +19,7 @@ draft: false
 ## Novas formas de seleção
 O advento da pandemia por Corona Vírus, definitivamente está mudando a forma como as empresas estão selecionando candidatos para suas vagas. Na semana passada mesmo, realizei etapas em 2 processos seletivos diferentes para gerente de TI.
 
-Ainda não obtive resposta pois, devido à quarentena, certamente os RH's estão em casa, sem poder trabalhou. Esses processos estão sendo diferentes de todos outros pelos quais passei no ano passado.
+Ainda não obtive resposta quanto à continuidade, pois devido à quarentena, certamente os RH's estão em casa, sem poder trabalhar. Esses processos estão sendo diferentes de todos outros pelos quais passei no ano passado.
 > O que há de diferente agora nos processos seletivos?
 
 * No primeiro processo seletivo que participei semana passada, tive que fazer uma video-apresentação de 4 minutos, falando a meu respeito e contando sobre um case de sucesso de minha vida profissional. Também pediram uma apresentação em 4 slides em Powerpoint, detalhando esse case. Pediram para enviar tudo por Whatsapp.
