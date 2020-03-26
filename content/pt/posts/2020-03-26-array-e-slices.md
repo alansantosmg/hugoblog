@@ -31,7 +31,11 @@ Eu não vou explicar o que são arrays e slices, pois estou partindo do pressupo
 Na liguagem GO, quando um array é passado como parâmetro de uma função, o que o programador na verdade está fazendo é realizando uma cópia do array que foi passado. Isso tem implicações:
 * qualquer mudança feita no array passado como parâmetro, será perdida quando a função terminar/deixar de existir.
 * o array original não refletirá qualquer alteração que tiver sido realizada dentro do escopo da função.
-* passar o array como parâmetro de uma função pode causar lentidão na execução do programa. Imagine que você tiver um array muito grande, ao passá-lo como parâmetro de função, a cópia demorará o tempo proporcional ao seu tamanho.
+* passar o array como parâmetro de uma função pode causar lentidão na execução do programa.
+
+{{< notice warning >}}
+Imagine que você tiver um array muito grande, ao passá-lo como parâmetro de função, a cópia demorará o tempo proporcional ao seu tamanho.
+{{< /notice >}}
 
 ### Criando array
 ```Go
@@ -48,7 +52,12 @@ myarray := [4]int{0,1,2,3}
 * Um Slice é uma estrutura parecida com um array em GO.
 * Embora seja parecido com um array, um slice é mais flexível, pois não precisa ter um tamanho fixo.
 * Sendo estruturas de tamanho variável, slices em GO, acabam fazendo o papel que arrays tem em outras linguagens.
-* O slice além de tamanho, também tem capacidade. Quando um slice esgota seu tamanho (todas as posições são preenchidas), Go simplesmente dobra a capacidade do Slice. Isso pode ser problemático para Slices grandes. Se o programador tiver por exemplo, um slice com 5 milhões de posições e precisar preencher mais uma posição, a capacidade do Slice dobrará para 10 milhões de posições.
+* O slice além de tamanho, também tem capacidade.
+* Quando um slice esgota seu tamanho (todas as posições são preenchidas), Go simplesmente dobra a capacidade do Slice. Isso pode ser problemático para Slices grandes.
+
+{{< notice warning >}}
+Se o programador tiver por exemplo, um slice com 5 milhões de posições e precisar preencher mais uma posição, a capacidade do Slice dobrará para 10 milhões de posições.
+{{< /notice >}}
 
 ### Slices e funções
 Na linguagem Go, ao passar um Slice como parâmetro de uma função, na verdade o programador está passando uma referência.
