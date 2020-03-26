@@ -10,6 +10,7 @@ type: default
 **Gerente de TI/Dev | Consultoria em Governança, Gestão de processos | Liderança e inovação**
 {{< boxmd >}}
 **23 anos de experiência em Tecnologia da Informação. Ampla atuação em gestão de operações e projetos de TI, liderança de equipes,  implantação, suporte, infraestrutura, desenvolvimento e sistemas.**
+ * Consultoria em gestão de Tecnologia da informação e gestão de processos.
  * Gestão estratégica de TI, equipes, contratos, orçamentos, ativos e terceiros;
  * Captação de demandas, mapeamento de processos e desenvolvimento de software (web);
  * Implantação, gestão e revitalização de ERPs e sistemas;
