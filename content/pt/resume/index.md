@@ -7,9 +7,9 @@ type: default
 
 ### Objetivo
 
-**Gerente de TI**
+**Gerente de TI/Dev | Consultoria em Governança, Gestão de processos | Liderança e inovação**
 {{< boxmd >}}
-**23 anos de experiência em Tecnologia da Informaçãõ. Ampla atuação em gestão de operações e projetos de TI, liderança de equipes,  implantação, suporte, infraestrutura, desenvolvimento e sistemas.**
+**23 anos de experiência em Tecnologia da Informação. Ampla atuação em gestão de operações e projetos de TI, liderança de equipes,  implantação, suporte, infraestrutura, desenvolvimento e sistemas.**
  * Gestão estratégica de TI, equipes, contratos, orçamentos, ativos e terceiros;
  * Captação de demandas, mapeamento de processos e desenvolvimento de software (web);
  * Implantação, gestão e revitalização de ERPs e sistemas;
@@ -74,6 +74,17 @@ type: default
 | Ferramentas ITSM                             | Webhelpdesk, Ocommon Helpdesk, Jitbit Helpdesk.                          |
 
 ### Experiência profissional
+
+{{< boxmd >}}
+Consultoria em BPM, Gestão de TI e Governança (Jan/2018 - Presente)
+
+- Desenho e redesenho de processos de negócio utilizando notação BPMN
+- Consultoria local para levantamento de atividades (mapeamento), definição e desenho de processos (as Is).
+- Consultoria local para redesenho e otimização de processos de negócio, definições de papéis e recursos (to be).
+- Consultoria local para definição de processos de Governança de TI, utilizando frameworks ITIL e Cobit.
+- Reestruturação de equipes de tecnologia. Implantação e coaching em Kanban e Scrum.
+
+{{< /boxmd >}}
 
 {{< boxmd >}}
 **Gerente de TI - Grupo Bernoulli Educacional** - (Jan/2012 a Dez/2017)
