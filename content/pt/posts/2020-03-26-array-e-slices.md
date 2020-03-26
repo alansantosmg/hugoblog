@@ -24,7 +24,7 @@ Eu não vou explicar o que são arrays e slices, pois estou partindo do pressupo
 ### Tamanho dos arrays
 * Na linguagem GO, um array ao ser declarado, precisa ter um tamanho fixo.
 * Uma vez declarado um array, não existe uma forma de mudar o seu tamanho original.
-* Se precisar de um array maior, o que pode ser feito é definir um novo array com mais posições e depois mudar os dados para lá.
+* Se precisar de um array maior, o que pode ser feito é definir um novo array com mais posições. Depois, copiar para o novo array os dados do array original.
 
 
 ### Arrays e funções
