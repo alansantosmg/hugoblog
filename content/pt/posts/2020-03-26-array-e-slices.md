@@ -1,7 +1,7 @@
 ---
 title: "O que ninguém te conta sobre Arrays e Slices na linguagem Go"
 date: 2020-03-26T14:06:55-03:00
-description: "Neste artigo, falarei sobre algumas peculiarides interessantes e cuidados que um programador deve ter ao utilizar arrays e slices na liguagem Go!"
+description: "Neste artigo, falarei sobre algumas peculiaridades interessantes e cuidados que um programador deve ter ao utilizar arrays e slices na liguagem Go!"
 toc: true
 author: Alan Santos
 authorEmoji: 👨🏻‍💻
