@@ -20,9 +20,9 @@ No post de hoje eu vou contar sobre algumas peculiaridades sobre **Arrays** e **
 ## Arrays
 
 ### Tamanho dos arrays
-Na linguagem GO, um array ao ser declarado, precisa ter um tamanho fixo.
-Uma vez declarado um array, não existe uma forma de mudar o seu tamanho original.
-Se precisar de um array maior, o que pode ser feito é definir um novo array com mais posições e depois mudar os dados para lá.
+* Na linguagem GO, um array ao ser declarado, precisa ter um tamanho fixo.
+* Uma vez declarado um array, não existe uma forma de mudar o seu tamanho original.
+* Se precisar de um array maior, o que pode ser feito é definir um novo array com mais posições e depois mudar os dados para lá.
 
 
 ### Arrays e funções
@@ -34,10 +34,10 @@ Na liguagem GO, quando um array é passado como parâmetro de uma função, o qu
 ## Slices
 
 ### Tamanho dos slices
-Um Slice é uma estrutura parecida com um array em GO.
-Embora seja parecido com um array, um slice é mais flexível, pois não precisa ter um tamanho fixo.
-Sendo estruturas de tamanho variável, slices em GO, acabam fazendo o papel que arrays tem em outras linguagens.
-O slice além de tamanho, também tem capacidade. Quando um slice esgota seu tamanho (todas as posições são preenchidas), Go simplesmente dobra a capacidade do Slice. Isso pode ser problemático para Slices grandes. Se o programador tiver por exemplo, um slice com 5 milhões de posições e precisar preencher mais uma posição, a capacidade do Slice dobrará para 10 milhões de posições.
+* Um Slice é uma estrutura parecida com um array em GO.
+* Embora seja parecido com um array, um slice é mais flexível, pois não precisa ter um tamanho fixo.
+* Sendo estruturas de tamanho variável, slices em GO, acabam fazendo o papel que arrays tem em outras linguagens.
+* O slice além de tamanho, também tem capacidade. Quando um slice esgota seu tamanho (todas as posições são preenchidas), Go simplesmente dobra a capacidade do Slice. Isso pode ser problemático para Slices grandes. Se o programador tiver por exemplo, um slice com 5 milhões de posições e precisar preencher mais uma posição, a capacidade do Slice dobrará para 10 milhões de posições.
 
 ### Slices e funções
 Na linguagem Go, ao passar um Slice como parâmetro de uma função, na verdade o programador está passando uma referência.
