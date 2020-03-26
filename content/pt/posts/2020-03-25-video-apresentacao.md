@@ -1,5 +1,5 @@
 ---
-title: "Video apresentações para empregos"
+title: "Video apresentações para processos seletivos"
 date: 2020-03-25T09:53:03-03:00
 description: "Os RHs estão mudando os processos de recrutamento com a pandemia de COVID. Você sabe fazer uma boa video apresentação?"
 toc: true
@@ -17,22 +17,23 @@ draft: false
 ---
 
 ## Novas formas de seleção
-O advento da pandemia por Corona Vírus, definitivamente está mudando a forma como as empresas estão selecionando candidatos para suas vagas. Na semana passada mesmo, realizei etapas em 2 processos seletivos diferentes para gerente de TI.
+O advento da pandemia por Corona Vírus, definitivamente está mudando a forma como as empresas estão selecionando candidatos para suas vagas. Embora eu esteja atuando com consultoria em governança de TI e gestão de processos, não deixo avaliar oportunidades interessantes que surgem. Nas últimas semanas, acabei sendo convidado a participar 2 processos seletivos em empresas.
 
-Ainda não obtive resposta quanto à continuidade, pois devido à quarentena, certamente os RH's estão em casa, sem poder trabalhar. Esses processos estão sendo diferentes de todos outros pelos quais passei no ano passado.
+Esses processos estão sendo bem diferentes de todos que participei em qualquer outro momento de minha carreira profissional. Parece que a necessidade tem levado os RH's a adotarem etapas de seleção que até poucas semanas atrás, não eram muito usuais, embora não sejam necessariamente uma "novidade" de mercado.
+
 > O que há de diferente agora nos processos seletivos?
 
-* No primeiro processo seletivo que participei semana passada, tive que fazer uma video-apresentação de 4 minutos, falando a meu respeito e contando sobre um case de sucesso de minha vida profissional. Também pediram uma apresentação em 4 slides em Powerpoint, detalhando esse case. Pediram para enviar tudo por Whatsapp.
-* No segundo processo seletivo, tive que fazer uma video-apresentação de 10 minutos contando a meu respeito, falando sobre minha trajetória profissional e destacando porque eu seria o candidato ideal para vaga. Também pediram para enviar tudo por Whatsapp.
+* No primeiro processo, solicitaram uma video-apresentação de 4 minutos, falando a meu respeito e contando sobre um case de sucesso de minha vida profissional. Solicitaram também,  uma apresentação em 4 slides em Powerpoint, detalhando esse case. Tudo deveria ser "enviado por Whatsapp".
+* No segundo processo, pediram uma video-apresentação de 10 minutos contando a meu respeito, falando sobre minha trajetória profissional e destacando como poderia ser útil para posição oferecida. Também pediram para "enviar tudo por Whatsapp".
 
-A princípio nos dois casos, não pediram nada demais. Qualquer um pode pegar um celular, olhar para a câmera, começar a gravar e logo a seguir, enviar por Whatsapp.
-> Será mesmo tão fácil fazer video apresentações?
+A princípio, nos dois casos, não pediram nada demais. Qualquer um pode pegar um celular, olhar para a câmera, começar a gravar e logo a seguir "enviar tudo por Whatsapp".
+> Será mesmo tão fácil fazer video apresentações e "enviar tudo por Whatsapp"?
 
 ### Problemas comuns
 
 Uma coisa é você mandar um recado para o namorado ou namorada, um oi para o filho ou fazer uma palhaçada para um amigo numa mensagem de video. Outra, é fazer uma apresentação profissional.
 
-Vou listar abaixo alguns problemas com os quais me deparei e certamente, você que está procurando trabalho, poderá passar também quando for fazer uma video apresentação:
+Vou listar abaixo alguns problemas com os quais me deparei e certamente, você que está participando de algum processo seletivo, poderá passar também quando for fazer uma video apresentação.
 
 ### Tempo descontrolado
 
