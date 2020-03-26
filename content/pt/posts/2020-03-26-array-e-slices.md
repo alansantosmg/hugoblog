@@ -15,7 +15,9 @@ meta_image: /images/feature3/golang.png
 image: /images/feature3/golang.png
 draft: false
 ---
-No post de hoje eu vou contar sobre algumas peculiaridades sobre **Arrays** e **Slices** na linguagem de programação GO. Não vou explicar o que é um array/slice, pois estou partindo do pressuposto que se você está lendo este artigo, deve ter um mínimo de conhecimento sobre linguagens de programação.
+No post de hoje eu vou contar sobre algumas peculiaridades sobre **Arrays** e **Slices** na linguagem de programação GO.
+
+Eu não vou explicar o que são arrays e slices, pois estou partindo do pressuposto que se você está lendo este artigo, deve ter um mínimo de conhecimento sobre linguagens de programação. Também não vou fazer diagramas, pois o assunto é óbvio demais e não carece de tal recurso.
 
 ## Arrays
 
