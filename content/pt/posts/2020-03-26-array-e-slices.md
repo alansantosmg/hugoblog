@@ -34,7 +34,7 @@ Na liguagem GO, quando um array é passado como parâmetro de uma função, o qu
 * passar o array como parâmetro de uma função pode causar lentidão na execução do programa.
 
 {{< notice warning >}}
-Imagine que você tiver um array muito grande, ao passá-lo como parâmetro de função, a cópia demorará o tempo proporcional ao seu tamanho.
+Imagine que se você tiver um array muito grande, ao passá-lo como parâmetro de função, a cópia demorará o tempo proporcional ao seu tamanho.
 {{< /notice >}}
 
 ### Criando array
