@@ -76,7 +76,7 @@ type: default
 ### Experiência profissional
 
 {{< boxmd >}}
-Consultoria em BPM, Gestão de TI e Governança (Jan/2018 - Presente)
+**Consultoria em BPM, Gestão de TI e Governança** (Jan/2018 - Presente)
 
 - Desenho e redesenho de processos de negócio utilizando notação BPMN
 - Consultoria local para levantamento de atividades (mapeamento), definição e desenho de processos (as Is).
