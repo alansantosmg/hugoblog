@@ -11,8 +11,8 @@ categories:
 - Dev
 tags:
 - Go
-meta_image:
-image:
+meta_image: /images/feature3/golang.png
+image: /images/feature3/golang.png
 draft: false
 ---
 
