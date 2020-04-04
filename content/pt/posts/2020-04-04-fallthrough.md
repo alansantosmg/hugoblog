@@ -1,5 +1,5 @@
 ---
-title: "Fallthrough em GO!"
+title: "Fallthrough em Golang"
 date: 2020-04-04T17:23:33-03:00
 description: "Executando casos em cascata dentro de um switch em Golang"
 toc: true
@@ -7,13 +7,11 @@ author: Alan Santos
 authorEmoji: 👨🏻‍💻
 authorDesc: IT Consultant
 meta_image: /images/feature3/golang.png
-authorImage: "/images/whoami/avatar.jpg"
 categories:
 - Dev
 tags:
 - Go
 image: /images/feature3/golang.png
-draft: false
 ---
 
 Em Golang, assim como no Java, Javascript e outras linguagens de programação, é possivel passar em cascata por casos dentro de um  `switch` (falltrough). Porém, em Go isso deve ser feito de forma explícita (segura), através da declaração da keyword `falltrough`.
