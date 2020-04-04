@@ -6,12 +6,12 @@ toc: true
 author: Alan Santos
 authorEmoji: 👨🏻‍💻
 authorDesc: IT Consultant
+meta_image: /images/feature3/golang.png
 authorImage: "/images/whoami/avatar.jpg"
 categories:
 - Dev
 tags:
 - Go
-meta_image: /images/feature3/golang.png
 image: /images/feature3/golang.png
 draft: false
 ---
