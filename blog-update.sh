@@ -1,5 +1,5 @@
 #!/bin/sh
-cd ~/blog/github.com/alansantosmg
+cd ~
 sleep 3
 echo
 mydate=`date "+%F-%H%M%S"`
