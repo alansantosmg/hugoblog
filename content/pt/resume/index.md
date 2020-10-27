@@ -7,15 +7,9 @@ type: default
 
 ### Objetivo
 
-**Gerente de TI/Dev | Consultoria em Governança, Gestão de processos | Liderança e inovação**
+**Gerente de TI | Consultoria | Liderança | Inovação**
 {{< boxmd >}}
 **23 anos de experiência em Tecnologia da Informação. Ampla atuação em gestão de operações e projetos de TI, liderança de equipes,  implantação, suporte, infraestrutura, desenvolvimento e sistemas.**
- * Consultoria em gestão de Tecnologia da informação e gestão de processos.
- * Gestão estratégica de TI, equipes, contratos, orçamentos, ativos e terceiros;
- * Captação de demandas, mapeamento de processos e desenvolvimento de software (web);
- * Implantação, gestão e revitalização de ERPs e sistemas;
- * Migração, implantação e gestão e migração de infraestrutura em nuvem e datacenter on­premisses;
- * Implantação de governança de TI: padronização de ambiente, segurança, processos, tecnologia.
 
 {{< /boxmd >}}
 ### Formação
@@ -36,28 +30,31 @@ type: default
 
 | Ano    | Carga | Formação                                             | Entidade                |
 | ------ | ----- | ---------------------------------------------------- | ----------------------- |
+| 2019 ­ | 06h ­ | SAP - Entendendo suas características Gerais.        | Digital Innovation One. |
+| 2019 ­ | 06h ­ | C# Primeiros passos.                                 | Digital Innovation One. |
+| 2019 ­ | 06h ­ | C# Introdução a Orientação a objetos.                | Digital Innovation One. |
+| 2020   | 06h ­ | RH Tech - Recrutamento e seleção em TI               | Alura Educação.         |
 | 2019 ­ | 06h ­ | Fundamentos para a Criação de produtos digitais.     | Digital Innovation One. |
 | 2019 ­ | 01h ­ | Modelos de Negócios digitais em Disrupção            | Digital Innovation One. |
 | 2019 ­ | 06h ­ | Fundamentos de Negócios digitais escaláveis          | Digital Innovation One. |
 | 2019 ­ | 03h ­ | Mentalidade empreendedora                            | Digital Innovation One. |
 | 2019 ­ | 02h ­ | Fundamentos do Intraempreendorismo                   | Digital Innovation One. |
 | 2019 ­ | 02h ­ | Introdução ao GIT e Controle de versões              | Digital Innovation One. |
-| 2019 ­ | 08h ­ | Certificação PMP parte 1 ­ Proc. de ger. de projetos | Alura Educação          |
-| 2019 ­ | 12h ­ | Jquery ­ A biblioteca mais popular do mercado I      | Alura Educação          |
-| 2019 ­ | 20h ­ | Javascript ­ Programando a linguagem da web          | Alura Educação          |
-| 2019 ­ | 14h ­ | Entendendo a Web por baixo dos panos                 | Alura Educação          |
-| 2019 ­ | 32h ­ | HTML5 e CSS3 I: Primeiras páginas Web                | Alura Educação          |
-| 2019 ­ | 14h ­ | Cobit 5 Foundation I                                 | Alura Educação          |
+| 2019 ­ | 08h ­ | Certificação PMP parte 1 ­ Proc. de ger. de projetos | Alura Educação.         |
+| 2019 ­ | 12h ­ | Jquery ­ A biblioteca mais popular do mercado I      | Alura Educação.         |
+| 2019 ­ | 20h ­ | Javascript ­ Programando a linguagem da web          | Alura Educação.         |
+| 2019 ­ | 14h ­ | Entendendo a Web por baixo dos panos                 | Alura Educação.         |
+| 2019 ­ | 32h ­ | HTML5 e CSS3 I: Primeiras páginas Web                | Alura Educação.         |
+| 2019 ­ | 14h ­ | Cobit 5 Foundation I                                 | Alura Educação.         |
 | 2018 ­ | 120h  | Certificação Professional Scrum Master 1 ­ PSM­1     | Scrum.org.              |
 
-### Idioma: inglês
+### Formação em Idiomas: 
 
-| Habilidade | Nível (0-5) |
-| ---------- | ----------- |
-| Reading    | 4           |
-| Listening  | 3           |
-| Writing    | 3           |
-| speaking   | 3           |
+| Idioma   | Nível    |
+| -------- | -------- |
+| Inglês   | Avançado |
+| Espanhol | Básico   |
+
 
 ### Conhecimentos
 
@@ -77,7 +74,18 @@ type: default
 ### Experiência profissional
 
 {{< boxmd >}}
-**Consultoria em BPM, Gestão de TI e Governança** (Jan/2018 - Presente)
+**Gerente de TI - Açotel Indústria de Aço** (Mai/2020 - Presente)
+
+- Reestruturação da área de TI promovendo transformação digital para alavancar os objetivos estratégicos do negócio.
+- Implantação do Microsoft 365 para geração de alta colaboração em arquivos, projetos e comunicação entre equipes. 
+- Implantação de landscape do SAP 4/Hana e projeto de migração de dados. 
+- Reorganização das equipes de TI com implantação de métodos ágeis p/ atendimento à demanda de projetos de novas tecnologias.
+- Implementação de governança visando aumento da transparência e eficiência dos processos de TI e gestão de KPIs  p/ agilidade da organização.
+
+{{< /boxmd >}}
+
+{{< boxmd >}}
+**Consultor de TI, AS - Consulting - Gestão de TI e Governança** (Jan/2018 - Mai/2020)
 
 - Desenho e redesenho de processos de negócio utilizando notação BPMN
 - Consultoria local para levantamento de atividades (mapeamento), definição e desenho de processos (as Is).
