@@ -2,10 +2,10 @@
 cd $HOME/src
 sleep 3
 echo "IF"
-if [ -e "$HOME/src/hugoBlogBkp" ]; then
+if [ -d "$HOME/src/hugoBlogBkp" ]; then
     echo "Criando diretório..."
     sleep 3
-    mkdir "$HOME/src/hugoBlogBkp"
+    mkdir $HOME/src/hugoBlogBkp
 fi 
 echo "fim IF"
 echo
