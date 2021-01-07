@@ -3,7 +3,7 @@ cd $HOME/src
 sleep 3
 echo "IF"
 
-if [ -d "hugoBlogBkp" ]; then 
+if [! -d "hugoBlogBkp" ]; then 
     echo "Criando diretório..."
     sleep 3
     mkdir hugoBlogBkp
