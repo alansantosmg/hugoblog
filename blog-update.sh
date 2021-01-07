@@ -1,11 +1,10 @@
 #!/bin/sh
 cd $HOME/src
 sleep 3
-if [ -d "$HOME/src/hugoBlogBkp"] 
-then
+if [ -d "$HOME/src/hugoBlogBkp" ];then
     echo "Criando diretório..."
     sleep 3
-    mkdir $HOME/src/hugoBlogBkp
+    mkdir "$HOME/src/hugoBlogBkp"
 fi 
 
 echo
