@@ -1,13 +1,13 @@
 #!/bin/sh
-cd ~
+cd $HOME/src
 sleep 3
 echo
 mydate=`date "+%F-%H%M%S"`
-tar -czvf ./blogBkp/$mydate-hugoblog.tar.gz ./hugoblog
+tar -czvf $HOME/src/hugoBlogBkp/$mydate-hugoblog.tar.gz $HOME/src/github.com/alansantosmg/hugoblog
 echo
 sleep 3
 echo
-cd hugoblog
+cd $HOME/src/github.com/alansantosmg/hugoblog
 git add .
 git commit -m "Nova postagem."
 git push origin master
