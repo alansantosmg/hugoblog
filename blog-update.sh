@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 cd $HOME/src
 sleep 3
 echo "IF"
