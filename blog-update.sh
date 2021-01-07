@@ -3,11 +3,10 @@ cd $HOME/src
 sleep 3
 echo "IF"
 
-if [ -d "$HOME/src/hugoBlogBkp" ] 
-then
-echo "Criando diretório..."
-sleep 3
-mkdir $HOME/src/hugoBlogBkp
+if [ -d "hugoBlogBkp" ]; then 
+    echo "Criando diretório..."
+    sleep 3
+    mkdir hugoBlogBkp
 fi 
 
 echo "fim IF"
