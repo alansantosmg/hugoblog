@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Serviços on Alan Santos</title>
+    <link>https://alansantosmg.netlify.com/pt/showcase/services/</link>
+    <description>Recent content in Serviços on Alan Santos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy;{year}, Todos os direitos reservados</copyright>
+    <lastBuildDate>Sun, 19 Jan 2020 21:04:11 +0900</lastBuildDate>
+    
+        <atom:link href="https://alansantosmg.netlify.com/pt/showcase/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Desenho de processos</title>
+        <link>https://alansantosmg.netlify.com/pt/showcase/services/processdesign/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        
+        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <guid>https://alansantosmg.netlify.com/pt/showcase/services/processdesign/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Consultoria em gestão de processos</title>
+        <link>https://alansantosmg.netlify.com/pt/showcase/services/bpmconsulting/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        
+        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <guid>https://alansantosmg.netlify.com/pt/showcase/services/bpmconsulting/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

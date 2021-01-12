@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Git on Alan Santos</title>
+    <link>https://alansantosmg.netlify.com/pt/tags/git/</link>
+    <description>Recent content in Git on Alan Santos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy;{year}, Todos os direitos reservados</copyright>
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://alansantosmg.netlify.com/pt/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Script para criar arquivo gitignore</title>
+        <link>https://alansantosmg.netlify.com/pt/posts/2019-07-03-gitignore-script/</link>
+        <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 03 Jul 2019 00:00:00 +0000</atom:modified>
+        <guid>https://alansantosmg.netlify.com/pt/posts/2019-07-03-gitignore-script/</guid>
+        <description>O .gitignore é um arquivo oculto que deve ficar dentro da raiz do seu repositório git. Ele é usado para fazer o git ignorar determinados tipos de arquivo durante as operações de commit. Ele existe justamente para que seu branch de produção possa ficar limpo de arquivos desnecessários. É possível criar um gitignore para cada repo, porém essa operação pode ser automatizada via shell script. Crie um novo arquivo, com o nome de gitignore-create.</description>
+        
+        <dc:creator>Alan Santos</dc:creator>
+        <media:content url="https://alansantosmg.netlify.comimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Git</category>
+            
+          
+        
+        
+          
+            
+              <category>DevOps</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Configurar seu usuário para o GIT</title>
+        <link>https://alansantosmg.netlify.com/pt/posts/2018-09-03-user-git/</link>
+        <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 03 Sep 2018 00:00:00 +0000</atom:modified>
+        <guid>https://alansantosmg.netlify.com/pt/posts/2018-09-03-user-git/</guid>
+        <description>Para usar o GIT corretamente, uma das primeiras coisas que devemos fazer é configurar nosso nome de usuário e e-mail. Esses dados são importantes, pois eles é que aparecerão quando realizarmos um commit. Para fazer isso, abra um terminal em seu diretorio home no linux e digite os comandos:
+1 2  git config --global user.name &amp;#34;YOUR NAME&amp;#34; git config --global user.email &amp;#34;YOUR EMAIL ADDRESS&amp;#34;   Pronto. Agora é só começar a utilizar o GIT.</description>
+        
+        <dc:creator>Alan Santos</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Git</category>
+            
+          
+        
+        
+          
+            
+              <category>DevOps</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

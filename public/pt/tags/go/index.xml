@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Go on Alan Santos</title>
+    <link>https://alansantosmg.netlify.com/pt/tags/go/</link>
+    <description>Recent content in Go on Alan Santos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy;{year}, Todos os direitos reservados</copyright>
+    <lastBuildDate>Sat, 11 Apr 2020 10:55:22 -0300</lastBuildDate>
+    
+        <atom:link href="https://alansantosmg.netlify.com/pt/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Orientação a Objetos em Go! - Métodos</title>
+        <link>https://alansantosmg.netlify.com/pt/posts/2020-04-11-oop1go/</link>
+        <pubDate>Sat, 11 Apr 2020 10:55:22 -0300</pubDate>
+        
+        <atom:modified>Sat, 11 Apr 2020 10:55:22 -0300</atom:modified>
+        <guid>https://alansantosmg.netlify.com/pt/posts/2020-04-11-oop1go/</guid>
+        <description>Orientação o objetos em Go Na linguagem Go é possível programar utilizando o paradigma de Orientação a objetos.
+Todavia, existem peculiaridades que tornam Go uma linguagem um pouco diferente de outras orientadas a objeto como o C Sharp e o Java.
+Algumas diferenças Para começar, em Go não existem classes como no Java e C Sharp. Go também não faz uso de protótipos (prototypes) como no Javascript (antes da implementação classes no mesmo).</description>
+        
+        <dc:creator>Alan Santos</dc:creator>
+        <media:content url="https://alansantosmg.netlify.com/images/feature3/golang.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://alansantosmg.netlify.com/images/feature3/golang.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Go</category>
+            
+          
+        
+        
+          
+            
+              <category>Dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Ubuntu 20.04 LTS - Experiência de desktop superior</title>
+        <link>https://alansantosmg.netlify.com/pt/posts/2020-04-09-ubuntu2004/</link>
+        <pubDate>Thu, 09 Apr 2020 00:12:59 -0300</pubDate>
+        
+        <atom:modified>Thu, 09 Apr 2020 00:12:59 -0300</atom:modified>
+        <guid>https://alansantosmg.netlify.com/pt/posts/2020-04-09-ubuntu2004/</guid>
+        <description>Ubuntu 20.04 em ação:
+  Abandonando o Windows Quando o Windows 10 foi lançado, acabei migrando para o Linux. O sistema do tio Bill não estava maduro o suficiente. Era um remendo para tentar salvar a Microsoft do verdadeiro desastre que foi o Windows 8 com sua controversa interface gráfica.
+O Windows 10 é um bom produto, sensivelmente melhor que o seu antecessor. Porém, por ser um produto que &amp;ldquo;empurra&amp;rdquo; para o futuro a indústria de pcs, acaba sendo voltado para máquinas das últimas gerações.</description>
+        
+        <dc:creator>Alan Santos</dc:creator>
+        
+        
+        <media:content url="https://alansantosmg.netlify.com/images/meta/telaprincipal.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Go</category>
+            
+          
+        
+        
+          
+            
+              <category>Dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Fallthrough em Golang</title>
+        <link>https://alansantosmg.netlify.com/pt/posts/2020-04-04-fallthrough/</link>
+        <pubDate>Sat, 04 Apr 2020 17:23:33 -0300</pubDate>
+        
+        <atom:modified>Sat, 04 Apr 2020 17:23:33 -0300</atom:modified>
+        <guid>https://alansantosmg.netlify.com/pt/posts/2020-04-04-fallthrough/</guid>
+        <description>Em Golang, assim como no Java, Javascript e outras linguagens de programação, é possivel passar em cascata por casos dentro de um switch (falltrough). Porém, em Go isso deve ser feito de forma explícita (segura), através da declaração da keyword falltrough.
+Para melhor entendimento, vamos comparar a técnica usando primeiro Javascript e depois Go.
+1 2 3 4 5 6 7 8 9 10 11 12  const protecao = &amp;#39;mascara de pano&amp;#39;; switch (protecao) { case &amp;#39;mascara cirurgica&amp;#39;: console.</description>
+        
+        <dc:creator>Alan Santos</dc:creator>
+        <media:content url="https://alansantosmg.netlify.com/images/feature3/golang.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://alansantosmg.netlify.com/images/feature3/golang.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Go</category>
+            
+          
+        
+        
+          
+            
+              <category>Dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>O que ninguém te conta sobre Arrays e Slices na linguagem Go</title>
+        <link>https://alansantosmg.netlify.com/pt/posts/2020-03-26-array-e-slices/</link>
+        <pubDate>Thu, 26 Mar 2020 14:06:55 -0300</pubDate>
+        
+        <atom:modified>Thu, 26 Mar 2020 14:06:55 -0300</atom:modified>
+        <guid>https://alansantosmg.netlify.com/pt/posts/2020-03-26-array-e-slices/</guid>
+        <description>No post de hoje eu vou contar sobre algumas peculiaridades sobre Arrays e Slices na linguagem de programação GO.
+Eu não vou explicar o que são arrays e slices, pois estou partindo do pressuposto que se você está lendo este artigo, deve ter um mínimo de conhecimento sobre linguagens de programação. Também não vou fazer diagramas, pois o assunto é óbvio demais e não carece de tal recurso.
+Arrays Tamanho dos arrays  Na linguagem GO, um array ao ser declarado, precisa ter um tamanho fixo.</description>
+        
+        <dc:creator>Alan Santos</dc:creator>
+        <media:content url="https://alansantosmg.netlify.com/images/feature3/golang.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://alansantosmg.netlify.com/images/feature3/golang.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Go</category>
+            
+          
+        
+        
+          
+            
+              <category>Dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Redirecionando do Github para outro local</title>
+        <link>https://alansantosmg.netlify.com/pt/posts/2020-03-15-redirect-github/</link>
+        <pubDate>Sun, 15 Mar 2020 22:35:52 -0300</pubDate>
+        
+        <atom:modified>Sun, 15 Mar 2020 22:35:52 -0300</atom:modified>
+        <guid>https://alansantosmg.netlify.com/pt/posts/2020-03-15-redirect-github/</guid>
+        <description>Seu domínio Login.github.io Muitos desenvolvedores costumam manter seus projetos hospedados no Github e aproveitam a estrutura disponível para criar um blog ou um site usando o recurso do github pages.
+Uma das facilidades que o Github oferece é permitir que o usuário tenha um domínio no formato: login.github.io. Isso é muito legal pois ajuda a economizar evitando a compra de um nome de domínio e ao mesmo tempo já soa bastante profissional.</description>
+        
+        <dc:creator>Alan Santos</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Go</category>
+            
+          
+        
+        
+          
+            
+              <category>Dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Retornando ao Hugo</title>
+        <link>https://alansantosmg.netlify.com/pt/posts/2020-03-11-hugoagain/</link>
+        <pubDate>Wed, 11 Mar 2020 15:34:54 +0000</pubDate>
+        
+        <atom:modified>Wed, 11 Mar 2020 15:34:54 +0000</atom:modified>
+        <guid>https://alansantosmg.netlify.com/pt/posts/2020-03-11-hugoagain/</guid>
+        <description>O longo caminho de volta Em 2019 iniciei minha empreitada para estabelecer meu espaço na web, independente das redes sociais.
+A opção de não trabalhar com plataformas de blog tradicionais, possibilitou experimentar tecnologias de ponta, como geradores de conteúdo estático (server less), CDN&amp;rsquo;s, CI/CD.
+Minha jornada compreendeu o seguinte caminho:
+  Comecei pelo Jekyll, um gerador de conteúdo estático em Ruby mais alinhado com Github. Optei por ele por ser o mais simples de configurar e gerar deploy na conta que eu já possuía no Github.</description>
+        
+        <dc:creator>Alan Santos</dc:creator>
+        
+        
+        <media:content url="https://alansantosmg.netlify.comimages/meta/hugo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>HUGO</category>
+            
+          
+            
+              <category>Go</category>
+            
+          
+        
+        
+          
+            
+              <category>Dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Golang Playground</title>
+        <link>https://alansantosmg.netlify.com/pt/posts/2020-02-26-goplayground/</link>
+        <pubDate>Wed, 26 Feb 2020 15:34:54 +0000</pubDate>
+        
+        <atom:modified>Wed, 26 Feb 2020 15:34:54 +0000</atom:modified>
+        <guid>https://alansantosmg.netlify.com/pt/posts/2020-02-26-goplayground/</guid>
+        <description>Aprendendo GO sem instalar um compilador A equipe do GO disponibiliza uma interface REPL na web para quem quiser escrever e testar seus códigos.
+Obviamente não é um recurso para desenvolvimento de grandes projetos.
+Todavia, trata-se de uma excelente ferramenta de aprendizado que possibilita rodar, formatar e compartilhar pequenos trechos de código, sendo ideal para estudantes.
+Outra coisa legal é que ela está disponível para quem quiser usar em seu site (desde que utilize apenas uma instância), bastando solicitar à equipe autorização para instalar.</description>
+        
+        <dc:creator>Alan Santos</dc:creator>
+        <media:content url="https://alansantosmg.netlify.com/images/feature3/golang.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Go</category>
+            
+          
+        
+        
+          
+            
+              <category>Dev</category>
+            
+          
+        
+        
+          
+            
+              <category>Aprendendo Go</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

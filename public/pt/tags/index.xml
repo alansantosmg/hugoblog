@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Alan Santos</title>
+    <link>https://alansantosmg.netlify.com/pt/tags/</link>
+    <description>Recent content in Tags on Alan Santos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy;{year}, Todos os direitos reservados</copyright>
+    <lastBuildDate>Sat, 11 Apr 2020 10:55:22 -0300</lastBuildDate>
+    
+        <atom:link href="https://alansantosmg.netlify.com/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Go</title>
+        <link>https://alansantosmg.netlify.com/pt/tags/go/</link>
+        <pubDate>Sat, 11 Apr 2020 10:55:22 -0300</pubDate>
+        
+        
+        <guid>https://alansantosmg.netlify.com/pt/tags/go/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Covid</title>
+        <link>https://alansantosmg.netlify.com/pt/tags/covid/</link>
+        <pubDate>Wed, 25 Mar 2020 09:53:03 -0300</pubDate>
+        
+        
+        <guid>https://alansantosmg.netlify.com/pt/tags/covid/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Remoto</title>
+        <link>https://alansantosmg.netlify.com/pt/tags/remoto/</link>
+        <pubDate>Mon, 23 Mar 2020 08:54:07 -0300</pubDate>
+        
+        
+        <guid>https://alansantosmg.netlify.com/pt/tags/remoto/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Vim</title>
+        <link>https://alansantosmg.netlify.com/pt/tags/vim/</link>
+        <pubDate>Sat, 21 Mar 2020 14:13:42 -0300</pubDate>
+        
+        
+        <guid>https://alansantosmg.netlify.com/pt/tags/vim/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>HUGO</title>
+        <link>https://alansantosmg.netlify.com/pt/tags/hugo/</link>
+        <pubDate>Wed, 11 Mar 2020 15:34:54 +0000</pubDate>
+        
+        
+        <guid>https://alansantosmg.netlify.com/pt/tags/hugo/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Linux</title>
+        <link>https://alansantosmg.netlify.com/pt/tags/linux/</link>
+        <pubDate>Wed, 12 Feb 2020 15:34:54 +0000</pubDate>
+        
+        
+        <guid>https://alansantosmg.netlify.com/pt/tags/linux/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Livros</title>
+        <link>https://alansantosmg.netlify.com/pt/tags/livros/</link>
+        <pubDate>Thu, 30 Jan 2020 14:21:31 +0000</pubDate>
+        
+        
+        <guid>https://alansantosmg.netlify.com/pt/tags/livros/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Javascript</title>
+        <link>https://alansantosmg.netlify.com/pt/tags/javascript/</link>
+        <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://alansantosmg.netlify.com/pt/tags/javascript/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>VsCode</title>
+        <link>https://alansantosmg.netlify.com/pt/tags/vscode/</link>
+        <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://alansantosmg.netlify.com/pt/tags/vscode/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Git</title>
+        <link>https://alansantosmg.netlify.com/pt/tags/git/</link>
+        <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://alansantosmg.netlify.com/pt/tags/git/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Python</title>
+        <link>https://alansantosmg.netlify.com/pt/tags/python/</link>
+        <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://alansantosmg.netlify.com/pt/tags/python/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Docker</title>
+        <link>https://alansantosmg.netlify.com/pt/tags/docker/</link>
+        <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://alansantosmg.netlify.com/pt/tags/docker/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Governança</title>
+        <link>https://alansantosmg.netlify.com/pt/tags/governan%C3%A7a/</link>
+        <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://alansantosmg.netlify.com/pt/tags/governan%C3%A7a/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>index</title>
+        <link>https://alansantosmg.netlify.com/pt/tags/index/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://alansantosmg.netlify.com/pt/tags/index/</guid>
+        <description></description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

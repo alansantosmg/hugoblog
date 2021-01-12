@@ -30,9 +30,10 @@ type: default
 
 | Ano    | Carga | Formação                                             | Entidade                |
 | ------ | ----- | ---------------------------------------------------- | ----------------------- |
-| 2019 ­ | 06h ­ | SAP - Entendendo suas características Gerais.        | Digital Innovation One. |
-| 2019 ­ | 06h ­ | C# Primeiros passos.                                 | Digital Innovation One. |
-| 2019 ­ | 06h ­ | C# Introdução a Orientação a objetos.                | Digital Innovation One. |
+| 2021 ­ | 09h ­ | Exin PDPE Essentials LGPD - Lei Geral de proteção de dados        | Udemy. |
+| 2020 ­ | 06h ­ | SAP - Entendendo suas características Gerais.        | Digital Innovation One. |
+| 2020 ­ | 06h ­ | C# Primeiros passos.                                 | Digital Innovation One. |
+| 2020 ­ | 06h ­ | C# Introdução a Orientação a objetos.                | Digital Innovation One. |
 | 2020   | 06h ­ | RH Tech - Recrutamento e seleção em TI               | Alura Educação.         |
 | 2019 ­ | 06h ­ | Fundamentos para a Criação de produtos digitais.     | Digital Innovation One. |
 | 2019 ­ | 01h ­ | Modelos de Negócios digitais em Disrupção            | Digital Innovation One. |
@@ -53,7 +54,7 @@ type: default
 | Idioma   | Nível    |
 | -------- | -------- |
 | Inglês   | Avançado |
-| Espanhol | Básico   |
+| Espanhol | Iniciante|
 
 
 ### Conhecimentos
@@ -69,17 +70,17 @@ type: default
 | ERP                                          | ERP TOTVS, CRM Microsof, Collegium, Midialog                             |
 | Bancos de dados                              | MS-SQL Server, Mysql                                                     |
 | DevOps:                                      | Windows Server, Linux, Docker, Azure (Cloud), Lan/Wan, Datacenters       |
-| Ferramentas ITSM                             | Webhelpdesk, Ocommon Helpdesk, Jitbit Helpdesk.                          |
+| Ferramentas ITSM                             | Webhelpdesk, Ocommon Helpdesk, Jitbit Helpdesk, GLPI, Spice Works                          |
 
 ### Experiência profissional
 
 {{< boxmd >}}
-**Gerente de TI - Açotel Indústria de Aço** (Mai/2020 - Presente)
+**Gerente de TI / Projetos - Açotel Indústria de Aço** (Mai/2020 - Dez/2020)
 
-- Reestruturação da área de TI promovendo transformação digital para alavancar os objetivos estratégicos do negócio.
+- Projeto de Reestruturação da área de TI promovendo transformação digital para alavancar os objetivos estratégicos do negócio.
 - Implantação do Microsoft 365 para geração de alta colaboração em arquivos, projetos e comunicação entre equipes. 
-- Implantação de landscape do SAP 4/Hana e projeto de migração de dados. 
-- Reorganização das equipes de TI com implantação de métodos ágeis p/ atendimento à demanda de projetos de novas tecnologias.
+- Projeto de desenvolvimento da arquitetura de landscape do SAP 4/Hana e projeto de migração de dados. 
+- Reorganização da equipe, novas contratações e implantação de métodos ágeis para gestão de projetos.
 - Implementação de governança visando aumento da transparência e eficiência dos processos de TI e gestão de KPIs  p/ agilidade da organização.
 
 {{< /boxmd >}}
