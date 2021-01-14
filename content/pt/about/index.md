@@ -15,10 +15,8 @@ Hoje me interesso por Desenvolvimento em  Golang (Go), Cloud computing, DevOps e
   
  **Ambiente de desenvolvimento:** {{< boxmd >}}
 
-Meu landscape é composto por:
-
 * S.O Linux Xubuntu 20.10 com Shell Fish, rodando Vms em VirtualBox e Docker containers.
-* Editor Vim 8 turbinado com plugin Go-Vim.{{< /boxmd >}}
+* Editor Vim 8 turbinado com plugin Go-Vim e VSCode{{< /boxmd >}}
 
 **Mais sobre mim:**
 Fora da TI, meus temas de interesse são música (violão, rock, jazz, clássico, eleletrônico), livros - em especial os de ficção cientítica, física e astronomia.
