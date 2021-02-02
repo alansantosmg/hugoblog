@@ -1,3 +1,3 @@
 #!/bin/bash
-#hugo server --bind=192.168.56.10 --baseURL=http://192.168.56.10:1313
-hugo server
+hugo server --port 5080 --bind=192.168.2.150 --baseURL=http://192.168.2.150:5080
+
