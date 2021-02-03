@@ -1,9 +1,9 @@
 #!/bin/sh
-cd $HOME/src
+cd $HOME
 sleep 3
 
 if [ ! -d "hugoBlogBkp" ]; then 
-    echo "Criando diretório:  $HOME/src/hugoBlogBkp"
+    echo "Criando diretório:  $HOME/hugoBlogBkp"
     sleep 3
     mkdir hugoBlogBkp
 fi 
@@ -11,12 +11,12 @@ fi
 echo "Iniciando backup!"
 sleep 3
 mydate=`date "+%F-%H%M%S"`
-tar -czvf $HOME/src/hugoBlogBkp/$mydate-hugoblog.tar.gz $HOME/src/github.com/alansantosmg/hugoblog
+tar -czvf $HOME/hugoBlogBkp/$mydate-hugoblog.tar.gz $HOME/github.com/alansantosmg/hugoblog
 echo
 echo "Backup concluido. Iniciando atualização do blog."
 sleep 3
 echo
-cd $HOME/src/github.com/alansantosmg/hugoblog
+cd $HOME/github.com/alansantosmg/hugoblog
 git add .
 git commit -m "Nova atualização."
 git push origin master
