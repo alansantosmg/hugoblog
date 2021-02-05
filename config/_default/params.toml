@@ -51,7 +51,7 @@ enableGoToTop = true # scroll to top
 
 enableWhoami = true # at the end of single page
 
-summaryShape = "card" # card, classic, compact
+summaryShape = "classic" # card, classic, compact
 
 archiveGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
