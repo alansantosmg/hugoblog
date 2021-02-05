@@ -15,7 +15,7 @@ useFaviconGenerator = true # https://www.favicon-generator.org/
 languagedir = "ltr" # ltr / rtl
 
 #themeOptions = ["dark", "light", "hacker", "solarized", "kimbie", "golang"] # select options for site color theme
-themeOptions = ["light","dark", "hacker", "golang"] # select options for site color theme
+themeOptions = ["light","dark"] # select options for site color theme
 
 notAllowedTypesInHome = ["contact", "talks", "about",  "showcase", "gallery"] # not allowed page types in home page. type can be set in front matter or default to folder name.
 
@@ -28,7 +28,7 @@ enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 
 # header
-homeHeaderType = "text" # text, img, slide
+homeHeaderType = "slide" # text, img, slide
 
 # menu
 # showMobileMenuTerms = ["tags", "categories", "series"]
@@ -39,7 +39,7 @@ enableThemeChange = true # site color theme
 
 # body
 
-enableBreadcrumb = true # breadcrumb for list, single page
+enableBreadcrumb = false # breadcrumb for list, single page
 
 enableSearch = false # site search with Fuse
 
