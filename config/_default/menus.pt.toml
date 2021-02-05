@@ -35,11 +35,17 @@
  # name = "DevOps"
  # url = "categories/devops"
 
-[[main]]
-identifier = "categories"
-name = "categorias"
-url = "categories"
+#[[main]]
+#identifier = "categories"
+#name = "Categorias"
+#url = "categories"
+#weight = 11
 
+[[main]]
+identifier = "Tags"
+name = "tags"
+url = "tags"
+weight = 8
 
 
 #[[main]]
