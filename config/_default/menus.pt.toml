@@ -16,7 +16,7 @@
 [[main]]
   identifier = "posts"
   name = "Blog"
-  url = "posts"
+  url = "/"
   weight = 1
 
 
@@ -30,16 +30,21 @@
   name = "Programação"
   url = "categories/dev"
 
+#[[main]]
+ # parent = "posts"
+ # name = "DevOps"
+ # url = "categories/devops"
+
 [[main]]
-  parent = "posts"
-  name = "DevOps"
-  url = "categories/devops"
+identifier = "categories"
+name = "categorias"
+url = "categories"
 
 
 [[main]]
-  parent = "posts"
-  name = "Gestão"
-  url = "categories/gestão"
+  identifier = "categories"
+  name = "Tags"
+  url = "tags"
 
 #[[main]]
 #  identifier = "gallery"

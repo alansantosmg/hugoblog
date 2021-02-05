@@ -80,7 +80,7 @@ useGravatar = false # we use this option highest priority
 
 # sidebar
 enableBio = true # home page sidebar
-enableSidebar = true # Set to false to create the full width of the content.
+enableSidebar = false # Set to false to create the full width of the content.
 enableSidebarTags = false # if you want to use tags.
 enableSidebarSeries = false
 enableSidebarCategories = false
