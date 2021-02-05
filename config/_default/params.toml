@@ -4,7 +4,7 @@ logoType = "short" # long, short -> short: squre shape includes logo text, long:
 
 logo = false # Logo that appears in the site navigation bar.
 
-description = "bhtron - Alan Santos Dev website blog" # for SEO
+description = "Alan Santos Dev website blog" # for SEO
 
 custom_css = ["scss/custom.scss"] # custom_css = ["scss/custom.scss"] and then make file at root/assets/scss/custom.scss
 
@@ -41,9 +41,9 @@ enableThemeChange = true # site color theme
 
 enableBreadcrumb = true # breadcrumb for list, single page
 
-enableSearch = true # site search with Fuse
+enableSearch = false # site search with Fuse
 
-enableSearchHighlight = true # when true, search keyword will be highlighted
+enableSearchHighlight = false # when true, search keyword will be highlighted
 
 enableGoToTop = true # scroll to top
 
