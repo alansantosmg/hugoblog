@@ -23,7 +23,7 @@ notAllowedTypesInHomeSidebar = ["about", "archive", "showcase"] # not allowed pa
 
 notAllowedTypesInArchive = ["about", "talks", "showcase", "resume", "contact", "gallery"] # not allowed page types in archive page
 
-viewportSize = "normal" # widest, wider, wide, normal, narrow
+viewportSize = "wider" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 
@@ -74,7 +74,7 @@ talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 # bioImageUrl =  # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set,we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
 
 useGravatar = false # we use this option highest priority
- location = "Brasil"
+ #location = "Brasil"
 # organization = "BhTron Consulting"
 # link = "https://github.com/alansantosmg"
 
@@ -179,7 +179,7 @@ commento = true
   jianshu = ""
   zhihu = ""
   signal = ""
-  whatsapp = "https://api.whatsapp.com/send?phone=+5531993892702"
+  # whatsapp = "https://api.whatsapp.com/send?phone=+5531993892702"
   matrix = ""
   xmpp = ""
   dev-to = ""
