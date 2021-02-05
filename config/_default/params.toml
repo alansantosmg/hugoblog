@@ -36,6 +36,8 @@ showMobileMenuTerms = ["tags", "categories"]
 
 # navbar
 enableThemeChange = true # site color theme
+enableNavBar = true
+EnableDarkMode = true
 
 # body
 
