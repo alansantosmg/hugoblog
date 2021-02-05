@@ -23,7 +23,7 @@ notAllowedTypesInHomeSidebar = ["about", "archive", "showcase"] # not allowed pa
 
 notAllowedTypesInArchive = ["about", "talks", "showcase", "resume", "contact", "gallery"] # not allowed page types in archive page
 
-viewportSize = "wider" # widest, wider, wide, normal, narrow
+viewportSize = "normal" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 
@@ -79,7 +79,7 @@ useGravatar = false # we use this option highest priority
 # link = "https://github.com/alansantosmg"
 
 # sidebar
-enableBio = true # home page sidebar
+enableBio = false # home page sidebar
 enableSidebar = false # Set to false to create the full width of the content.
 enableSidebarTags = false # if you want to use tags.
 enableSidebarSeries = false
