@@ -1,9 +1,9 @@
 
-[[main]]
-  identifier = "Serviços"
-  name = "Serviços"
-  url = "showcase/services"
-  weight = 3
+#[[main]]
+#  identifier = "Serviços"
+#  name = "Serviços"
+#  url = "showcase/services"
+#  weight = 3
 
 
 [[main]]
@@ -77,11 +77,11 @@
 #  weight = 7
 
 
-[[main]]
-  identifier = "contact"
-  name = "Contato"
-  url = "contact"
-  weight = 8
+#[[main]]
+#  identifier = "contact"
+#  name = "Contato"
+#  url = "contact"
+#  weight = 8
 
 
 [[main]]
