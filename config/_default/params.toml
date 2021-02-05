@@ -74,13 +74,13 @@ talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 # bioImageUrl =  # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set,we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
 
 useGravatar = false # we use this option highest priority
-# location = "BHz, Br"
+ location = "Brasil"
 # organization = "BhTron Consulting"
 # link = "https://github.com/alansantosmg"
 
 # sidebar
-enableBio = false # home page sidebar
-enableSidebar = false # Set to false to create the full width of the content.
+enableBio = true # home page sidebar
+enableSidebar = true # Set to false to create the full width of the content.
 enableSidebarTags = false # if you want to use tags.
 enableSidebarSeries = false
 enableSidebarCategories = false
@@ -98,7 +98,7 @@ sidebarPosition = "left" # bio, profile component layout position
 showPoweredBy = false # show footer text: Powered by Hugo and Zzo theme
 showFeedLinks = true # RSS Feed
 showSocialLinks = false # email, facebook, twitter ...
-enableLangChange = true # show button at bottom left of footer.
+enableLangChange = false # show button at bottom left of footer.
 
 # service
 baiduAnalytics = "" # alternative of google analytics
@@ -155,8 +155,8 @@ commento = true
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions] # if set, social icons will show up.
-  email = "mailto:alansantosmg@gmail.com"
-  phone = "tel:+5531993892702"
+  #email = "mailto:alansantosmg@gmail.com"
+  #phone = "tel:+5531993892702"
   # facebook = "http://example.org/"
   # twitter = "http://example.org/"
   github = "https://github.com/alansantosmg"
