@@ -23,7 +23,7 @@ notAllowedTypesInHomeSidebar = ["about", "archive", "showcase"] # not allowed pa
 
 notAllowedTypesInArchive = ["about", "talks", "showcase", "resume", "contact", "gallery"] # not allowed page types in archive page
 
-viewportSize = "wide" # widest, wider, wide, normal, narrow
+viewportSize = "wider" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 
