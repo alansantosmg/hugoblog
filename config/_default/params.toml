@@ -1,4 +1,4 @@
-#logoText = "Alan Santos" # Logo text that appears in the site navigation bar.
+logoText = "Alan Santos" # Logo text that appears in the site navigation bar.
 
 logoType = "short" # long, short -> short: squre shape includes logo text, long: rectangle shape not includes logo text
 
@@ -65,11 +65,11 @@ talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
 
- myname = "Alan Santos"
+# myname = "Alan Santos"
 
 # email = "alansantosmg@gmail.com"
 
-# whoami = "Sênior IT Consultant"
+/3 whoami = "Sênior IT Consultant"
 
 # bioImageUrl =  # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set,we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
 
