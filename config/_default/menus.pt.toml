@@ -62,11 +62,11 @@ weight = 8
 #  url = "gallery/vim-themes"
 
 
-[[main]]
-  identifier = "archive"
-  name = "Arquivo"
-  url = "archive"
-  weight = 6
+#[[main]]
+#  identifier = "archive"
+#  name = "Arquivo"
+#  url = "archive"
+#  weight = 6
 
 
 #[[main]]
