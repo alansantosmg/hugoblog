@@ -89,7 +89,7 @@ b, strong {
 }
 
 a {
-  color: #002371;
+  color: #007d9c;
   text-decoration: none;
   word-break: break-word;
 }
@@ -245,6 +245,7 @@ table th {
 #title-description {
   display: flex;
   justify-content: space-between;
+  color:#3a918d
 }
 
 #social nav {
