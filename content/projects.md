@@ -6,6 +6,15 @@ type = "article"
 aliases = ["about-us","about-alan","contato"]
 author = "Alan Santos"
 +++
+
+## DevOps / infra
+
+### envGoDev
+
+* Desenvolva em GO sem precisar, alterar a configuração de seu computador. VirtualBox Machine, provisionada via Vagrant c/ ambiente totalmente configurado para desenvolvimento com Golang, incluindo Go SDK instalado, Editor Vim com plugins para Go e fish Shell + spacefish prompt. 
+* [https://github.com/alansantosmg/envgodev](https://github.com/alansantosmg/envgodev) 
+  
+
 ## Golang
 ### timelapse - package
 
