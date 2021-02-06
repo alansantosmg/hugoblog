@@ -3,6 +3,7 @@ title = "Projetos"
 description = "Projetos"
 #date = "2019-02-28"
 type = "article"
+comments = false
 aliases = ["about-us","about-alan","contato"]
 author = "Alan Santos"
 +++
@@ -12,7 +13,7 @@ author = "Alan Santos"
 ### envGoDev
 
 * Desenvolva em GO sem precisar, alterar a configuração de seu computador. VirtualBox Machine, provisionada via Vagrant c/ ambiente totalmente configurado para desenvolvimento com Golang, incluindo Go SDK instalado, Editor Vim com plugins para Go e fish Shell + spacefish prompt. 
-* [https://github.com/alansantosmg/envgodev](https://github.com/alansantosmg/envgodev) 
+* [https://github.com/alansantosmg/envgodev](https://github.com/alansantosmg/envgodev)
   
 
 ## Golang
