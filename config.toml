@@ -73,6 +73,8 @@ engine = "disqus"
 # Content types to disable comments on.
 disableOnTypes = ["page"]
 
+enableEmoji = true
+
 [params.comments.disqus]
 shortname = "alansantosmg-github-io" # Paste the shortname from your Disqus dashboard.
 
@@ -85,15 +87,15 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[menu.main]]
-name = "T.I."
-url = "/categories/Tecnologia"
-weight = 2
-
 #[[menu.main]]
-#name = "Musica"
-#url = "/musica"
-#weight = 5
+#name = "T.I."
+#url = "/categories/Tecnologia"
+#weight = 2
+
+[[menu.main]]
+name = "Musica"
+url = "/music"
+weight = 5
 
 [[menu.main]]
 name = "Livros"
@@ -154,3 +156,6 @@ icon = "fas fa-rss"
 url = "/index.xml"
 
 ignoreErrors = ["error-remote-getjson"]
+
+[privacy.youtube]
+    disable = false

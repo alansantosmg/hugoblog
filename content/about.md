@@ -14,7 +14,7 @@ Sou mineiro de BH das Geraes, mestre em Sistemas de Informação com mais de 20 
 
 Sou Apaixonado por tecnologia, ciências, música e cinema.
 
-Atualmente estou envolvido com o aprendizado de programação na linguagem Golang ou "Go!" -  para os íntimos. :-)
+Atualmente estou envolvido com o aprendizado de programação na linguagem Golang ou "Go!" -  para os íntimos. 
 
-Por que go? - Porque é GO legal!
+Por que go? - Porque é GO legal! 😃
 
