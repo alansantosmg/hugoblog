@@ -34,7 +34,7 @@ googleAnalytics = "UA-148840174-2"
 	pagetitle = "Alan Santos - Blog"
 
 	# Add a subtitle to your website
-	 subtitle = "---There is no place like 127.0.0.1"
+	 subtitle = " "
 
 	# Activate to show authors on pages if available
 	listAuthor = false
