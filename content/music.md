@@ -10,9 +10,14 @@ author = "Alan Santos"
 
 Para ouvir a lista completa: [mm2021](https://music.youtube.com/playlist?list=PLYgwqzinSWnFMYr0-Sc-gHtjRUvsTCEor).
 
-Chove muito em BH no final de semana. Então iremos de Rain, dos **Beatles**, em clima de nostalgia. Lançada em 66 c/ o single Paperback Writer, é considerada o "melhor lado B" da banda. Um prelúdio p/ o excelente album Revolver. 
+---
+Chove muito em BH no final de semana. Então iremos de **Beatles**, em clima de nostalgia. Lançada em 66 c/ o single Paperback Writer, é considerada o *"melhor lado B" da banda*. Um prelúdio p/ o excelente album Revolver.
 {{< youtube cK5G8fPmWeA >}}
 
+
+&nbsp;
+
+---
 E vamos começar o ano com a banda eletropop francesa **M83**.  A música é tema do game de carros, Forza 4. Clipe é bobinho, mas o som é muito legal, principalmente pra pegar estrada.
 
 {{< youtube n5cgzcjqOtE >}}
