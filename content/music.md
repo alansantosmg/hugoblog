@@ -10,9 +10,9 @@ author = "Alan Santos"
 
 Para ouvir a lista completa: [mm2021](https://music.youtube.com/playlist?list=PLYgwqzinSWnFMYr0-Sc-gHtjRUvsTCEor).
 
+---
 Goiana, 17 anos toca e canta muuuuuito! **Mariana Fróes** no cover dos girassóis de Baco Exu do Blues.
 {{< youtube cRLSKh5ridA >}}
-
 
 ---
 **Prince**, além ser um artista conceitual muito à frente de seu tempo, era também multi-instrumentista e um tremendo guitarrista.
