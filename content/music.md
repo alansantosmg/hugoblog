@@ -14,14 +14,17 @@ Para ouvir a lista completa: [mm2021](https://music.youtube.com/playlist?list=PL
 Goiana, 17 anos toca e canta muuuuuito! **Mariana Fróes** no cover dos girassóis de Baco Exu do Blues.
 {{< youtube cRLSKh5ridA >}}
 
+&nbsp;
+
 ---
 **Prince**, além ser um artista conceitual muito à frente de seu tempo, era também multi-instrumentista e um tremendo guitarrista.
 {{< youtube WCAiVCNrb3k >}}
 
+&nbsp;
+
 ---
 Chove muito em BH no final de semana. Então iremos de **Beatles**, em clima de nostalgia. Lançada em 66 c/ o single Paperback Writer, é considerada o *"melhor lado B" da banda*. Um prelúdio p/ o excelente album Revolver.
 {{< youtube cK5G8fPmWeA >}}
-
 
 &nbsp;
 
