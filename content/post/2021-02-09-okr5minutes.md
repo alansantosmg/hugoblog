@@ -22,26 +22,27 @@ OKR é uma ferramenta de gestão (sistema), que foi criada por Andy Grove, ex CE
 
 ## Como funciona?
 
-A empresa (ou melhor, equipes), em conjunto com a direção, elaboram uma meta macro, que deve ser atingida num tempo x. As áreas de negócio elaboram suas metas que irão contribuir para a meta global na forma de resultados a serem atingidos.
+A empresa (ou melhor, equipes), em conjunto com a direção, elaboram uma meta macro que deve ser atingida num tempo x. As áreas de negócio elaboram suas metas que irão contribuir para a meta global na forma de resultados a serem atingidos.
 
-Um ponto importante é destacar é o princípio da autonomia que deve ser observado na utilização da ferramenta. Todo o **processo de construção se dá a partir das equipes**. Portanto, o processo NÃO é top-down!
+Um ponto importante a destacar é o princípio da autonomia, que deve ser preservada na utilização da ferramenta. 
+
+Todo o **processo de construção se dá a partir das equipes**. Ele NÃO ocorre de forma top-down!
 
 ## A estrutura do OKR
 
 ### Objetivo
 
-O Objetivo (meta) possui caráter qualitativo e deve ser a resposta para a pergunta "Aonde quero chegar?"
-Resultados-chave - possuem caráter quantitativo e devem ser a resposta para a pergunta: "Como eu vou saber que estou chegando lá? Ou seja, é uma métrica.
+- O *Objetivo* (meta) possui caráter **qualitativo** e deve ser a resposta para a pergunta **"Aonde quero chegar?"**
 
-Um objetivo pode ser elaborado através da seguinte frase:
+- Um objetivo pode ser elaborado através da seguinte frase:
 
 Eu quero_____________ mensurado por___________.
 
 ### Resultados-chave
 
-Os resultados-chave (KR) possuem carater quantitativo e devem ser a reposta para a pergunta "Como eu saberei que estou chegando lá?" ou "Como posso mensurar que estou chegando lá?".
+- Os *resultados-chave* (KR's) possuem caráter **quantitativo** e devem ser a reposta para a pergunta **"Como eu saberei que estou chegando lá?**" ou "Como posso mensurar que estou chegando lá?".
 
-Enquanto nos KPIs, mensuramos os desempenho das áreas (performance), com os KR's, nós mensuramos o quanto as áreas de negócio ajudaram a organização a antigir um determinado objetivo (contribuição).
+- Enquanto nos KPIs, mensuramos os desempenho das áreas (performance), com os KR's, nós mensuramos o quanto as áreas de negócio ajudaram a organização a antigir um determinado objetivo (contribuição).
 
 #### Os KR's precisam ser SMART
 
