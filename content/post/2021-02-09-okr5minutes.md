@@ -3,7 +3,7 @@ author = "alan Santos"
 title = "OKR em 15 minutos"
 date = "2021-02-11"
 description = "Desmistificando OKR"
-meta_image = "/img/okr.png"
+image = "/img/okr.png"
 thumbnail = "/img/okr.png"
 
 +++
