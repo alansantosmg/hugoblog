@@ -73,10 +73,10 @@ Por isso, o ORK se encaixa mais em um modelo agile do que no modelo de planejame
 
 1. Determinar qual é o grande objetivo da organização para o ano.
 
-2. Dividir os objetivos desdobrados em trimestres. Sendo para o primeiro trismestre 3 objetivos que precisam ser atingidos primeiro.
+2. Dividir os objetivos desdobrados em trimestres. Sendo para o primeiro trimestre, 3 objetivos que precisam ser atingidos primeiro.
 
 3. Criar de 3 a 5 resultados-chave no máximo, por área de negócio, para os objetivos do trimestre. O ideal é que cada área possa definir quais serão as suas contribuições (KR's) para as metas, sendo também sua responsabilidade a mensuração das mesmas dentro do período especificado.
-   - A metodologia também pode ser aplicada da área para colaborador, ou seja, os KR's da área podem se tornar metas da área que vão definir as contribuições de cada colaborador para atingimento, envolvendo assim, todos os níveis da organização.  
+   - A metodologia também pode ser aplicada da área para colaborador, ou seja, os KR's da área podem se tornar metas da área que vão definir as contribuições individuais de cada colaborador para atingimento, envolvendo assim, todos os níveis da organização.  
 
 4. Mensurar os KR semanalmente. Pode ser uma rápida conversa com os gestores das áreas. Uma técnica aplicável é usar o esquema de dayly meetings da metodologia Scrum, só que semanalmente.
 
