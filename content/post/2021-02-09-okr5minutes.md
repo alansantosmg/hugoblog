@@ -1,7 +1,7 @@
 +++
 author = "alan Santos"
 title = "OKR em 15 minutos"
-date = "2021-02-22"
+date = "2021-02-11"
 description = "Desmistificando OKR"
 
 
