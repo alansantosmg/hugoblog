@@ -12,19 +12,19 @@ thumbnail = "/img/okr.png"
 
 Hoje vamos falar um pouco sobre OKR.
 
-A príncipio, estas 3 letrinhas podem parecer intimidadoras, como a maioria dos jargões da administração, porém a verdade é que trata-se de algo bem simples, que qualquer mortal pode facilmente entender e implementar em sua organização.
+A príncipio, estas 3 letrinhas podem parecer intimidadoras como a maioria dos jargões da administração, porém, a verdade é que trata-se de algo bem simples, que qualquer mortal pode facilmente entender e implementar em sua organização.
 
-Vamos começar pela pronúncia. A maneira certa de fazê-lo é em inglês, então deve ser pronunciado assim: `ô-Ki-ar` e não `ó-ká-érre`.
+Vamos começar pela pronúncia. A maneira certa de fazê-la é em inglês, então deve ser pronunciado assim: `ô-Ki-ar` e não `ó-ká-érre`.
 
 ## Mas o que é OKR?
 
-OKR é uma ferramenta de gestão (sistema), que foi criada por Andy Grove, ex CEO da Intel, para criar alinhamento, engajamento e autonomia em equipes, que as empresas utilizam para definir metas (Objectives) e mensurar seu cumprimento através mensuração de resultados-chave (Key-results) obtidos.
+OKR é uma ferramenta de gestão (sistema), que foi criada por Andy Grove, ex CEO da Intel, para criar alinhamento, engajamento e autonomia em equipes. As empresas utilizam OKR para definir metas (Objectives) e mensurar seu cumprimento através medição de resultados-chave (Key-results) obtidos.
 
 ## Como funciona?
 
-A empresa, ou melhor equipes em conjunto com a direção, elaboram uma meta macro, que deve ser atingida num tempo x. As áreas de negócio elaboram suas metas que irão contribuir para a meta global na forma de resultados a serem atingidos.
+A empresa (ou melhor, equipes), em conjunto com a direção, elaboram uma meta macro, que deve ser atingida num tempo x. As áreas de negócio elaboram suas metas que irão contribuir para a meta global na forma de resultados a serem atingidos.
 
-Um ponto importante é destacar é o princípio da autonomia que deve ser observado na utilização da ferramenta. Todo o processo de construção se dá a partir das equipes. Portanto, o processo NÃO é top-down!
+Um ponto importante é destacar é o princípio da autonomia que deve ser observado na utilização da ferramenta. Todo o **processo de construção se dá a partir das equipes**. Portanto, o processo NÃO é top-down!
 
 ## A estrutura do OKR
 
