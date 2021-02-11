@@ -46,18 +46,18 @@ Eu quero_____________ mensurado por___________.
 
 #### Os KR's precisam ser SMART
 
-- (s) Específicos
-- (m) Mensuráveis
-- (a) Atingíveis
-- (r) realistas
-- (t) avaliados num período de tempo fixo.
+- (s) E**s**pecíficos
+- (m) **M**ensuráveis
+- (a) **A**tingíveis
+- (r) **R**ealistas
+- (t) Avaliados num período de **t**empo fixo.
   
 ## Avaliação dos resultados
 
 Os resultados devem ser avaliados ao final de períodos fixos de tempo (normalmente quartils).
 De modo geral, o esperado deve ficar em torno de 70% do estimado. As metas devem ser altas para ajudar a alavancar a produtividade e motivar as equipes para sua conquista.
 
-Se o esperado ficar acima de 100%, a meta definida provavelmente foi subestimada e precisa ser revista para cima. 
+Se o esperado ficar acima de 100%, a meta definida provavelmente foi subestimada e precisa ser revista para cima.
 
 Se o esperado ficar muito abaixo de 50%, a meta definida provavelmente foi superestimada e precisa ser revista para baixo.
 
