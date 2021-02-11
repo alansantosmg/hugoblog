@@ -40,7 +40,7 @@ Eu quero_____________ mensurado por___________.
 
 ### Resultados-chave
 
-- Os *resultados-chave* (KR's) possuem caráter **quantitativo** e devem ser a reposta para a pergunta **"Como eu saberei que estou chegando lá?**" ou "Como posso mensurar que estou chegando lá?".
+- Os *resultados-chave* (KR's) possuem caráter **quantitativo** e devem ser a reposta para a pergunta **"Como eu saberei que estou chegando lá?"**
 
 - Enquanto nos KPIs, mensuramos os desempenho das áreas (performance), com os KR's, nós mensuramos o quanto as áreas de negócio ajudaram a organização a antigir um determinado objetivo (contribuição).
 
