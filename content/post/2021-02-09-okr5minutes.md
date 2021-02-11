@@ -55,6 +55,7 @@ Eu quero_____________ mensurado por___________.
 ## Avaliação dos resultados
 
 Os resultados devem ser avaliados ao final de períodos fixos de tempo (normalmente quartils).
+
 De modo geral, o esperado deve ficar em torno de 70% do estimado. As metas devem ser altas para ajudar a alavancar a produtividade e motivar as equipes para sua conquista.
 
 Se o esperado ficar acima de 100%, a meta definida provavelmente foi subestimada e precisa ser revista para cima.
