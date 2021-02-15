@@ -11,6 +11,11 @@ author = "Alan Santos"
 Para ouvir a lista completa: [mm2021](https://music.youtube.com/playlist?list=PLYgwqzinSWnFMYr0-Sc-gHtjRUvsTCEor).
 
 ---
+
+Carnaval de Porto Seguro, porque os tempos já foram muito bons e logo voltarão a ser!
+{{< youtube 1BeUDa9qWos >}}
+
+---
 Goiana, 17 anos toca e canta muuuuuito! **Mariana Fróes** no cover dos girassóis de Baco Exu do Blues.
 {{< youtube cRLSKh5ridA >}}
 
