@@ -11,7 +11,10 @@ author = "Alan Santos"
 Para ouvir a lista completa: [mm2021](https://music.youtube.com/playlist?list=PLYgwqzinSWnFMYr0-Sc-gHtjRUvsTCEor).
 
 ---
+Em tempos de Covid-19, às vezes dá vontade de juntar um monte de gente e sair correndo e pulando dentro do shopping pra extravasar. ESPERANÇA: Don't let go! You got the music in you!
+{{< youtube DL7-CKirWZE >}}
 
+---
 Carnaval de Porto Seguro, porque os tempos já foram muito bons e logo voltarão a ser!
 {{< youtube 1BeUDa9qWos >}}
 
