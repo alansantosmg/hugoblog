@@ -1,7 +1,7 @@
 +++
 author = "alan Santos"
 title = "Aventuras Linux 2020-2021"
-description = "Testando várias distribuições"
+description = "Testando 11 distribuições diferentes"
 date = "2021-02-19"
 
 +++
