@@ -1,13 +1,14 @@
 +++
 author = "alan Santos"
-title = "Múltiplas distribuições Linux 2020-2021"
+title = "Aventuras Linux 2020-2021"
+description = "Testando várias distribuições"
 date = "2021-02-19"
 
 +++
 
 👨🏻‍💻 Olá pessoal!
 
-Entre 2020 e 2021 testei uma série de distribuições Linux, tanto por motivos profissionais quanto pessoais. Hoje farei um pequeno resumo sobre a experiência:
+Entre 2020 e 2021 testei uma série de distribuições Linux, tanto por motivos profissionais quanto pessoais. Hoje farei um pequeno resumo sobre a experiência.
 
 ## Ubuntu 20.04
 
