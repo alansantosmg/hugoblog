@@ -11,6 +11,21 @@ author = "Alan Santos"
 Para ouvir a lista completa: [mm2021](https://music.youtube.com/playlist?list=PLYgwqzinSWnFMYr0-Sc-gHtjRUvsTCEor).
 
 ---
+Mas para não esquecer...
+
+{{< youtube iQDlubWevHY >}}
+
+---
+Depois de revolucionar a música eletrônica mundial e popularizar o papel dos D.Js, o **Daft Punk** publica sua despedida em seu canal no youtube. Em um mundo onde tudo é tão pasteurizado, chato e mais do mesmo, talvez não exista lugar para a criatividade e inovação.
+
+{{< youtube DuDX6wNfjqc >}}
+
+---
+Muitos se lembram apenas de *Take on me* e crêem erroneamente, que trata-se uma banda de uma música só. A verdade é que além de serem cultuados na Noruega, emplacaram inúmeros sucessos (alguns não tão conhecidos por aqui) nas Hit Parades mundiais. O que sempre me chamou mais a atenção é sua sonoridade tão única. Basta começar a ouvir e...  **A-HA!**
+
+{{< youtube n8Vrp2YujOQ >}}
+
+---
 Em tempos de Covid-19, às vezes dá vontade de juntar um monte de gente e sair correndo e pulando dentro do shopping pra extravasar. ESPERANÇA: Don't let go! You got the music in you!
 {{< youtube DL7-CKirWZE >}}
 
