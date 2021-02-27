@@ -11,6 +11,12 @@ author = "Alan Santos"
 Para ouvir a lista completa: [mm2021](https://music.youtube.com/playlist?list=PLYgwqzinSWnFMYr0-Sc-gHtjRUvsTCEor).
 
 ---
+
+### We're under control
+
+{{< youtube yZqmarGShxg >}}
+
+---
 Mas para não esquecer...
 
 {{< youtube iQDlubWevHY >}}
