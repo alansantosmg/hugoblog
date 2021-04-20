@@ -56,8 +56,11 @@ func main() {
 	fmt.Println(primeiroSlice)
 
 	// Explicação - Pegadinha do malandro:
-	// Ao criar o segundo slice Go refatia (refaz) o primeiro array/slice subjacente.
-	// Licão: Cuidado ao trabalhar com Slices.
+	
+    // Ao criar o segundo slice Go refatia (refaz)
+    // o primeiro array/slice subjacente.
+	
+    // Licão: Cuidado ao trabalhar com Slices.
 }
 
 ```
