@@ -1,21 +1,20 @@
----
++++
 title = "Refatiando Slices em Go"
-description = " A Pegadinha do malandro ao refatiar Slices"
+description = "A Pegadinha do malandro ao refatiar Slices"
 date = "2021-04-20"
-author: Alan Santos
-authorEmoji: 👨🏻‍💻
-authorDesc: IT Consultant
-authorImage: "/images/whoami/avatar.jpg"
-categories:
-- Programação
-- Tecnologia
-- Golang
-tags:
-- Go
-meta_image: /img/golang.png
-image: /img/golang.png
-draft: false
----
+author = "Alan Santos"
+categories = [
+	"Programação",
+ 	"Tecnologia",
+	"Golang",
+]
+tags = [
+ "Go",
+]
+thumbnail = "/img/golang.png"
+image =  "/img/golang.png"
+featuredImage = "/img/golang.png"
++++
 
 👨🏻‍💻 Olá pessoal!
 
