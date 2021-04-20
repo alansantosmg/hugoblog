@@ -1,4 +1,4 @@
-+++
+---
 title = "Refatiando Slices em Go"
 description = " A Pegadinha do malandro ao refatiar Slices"
 date = "2021-04-20"
@@ -15,7 +15,7 @@ tags:
 meta_image: /img/golang.png
 image: /img/golang.png
 draft: false
-+++
+---
 
 👨🏻‍💻 Olá pessoal!
 
