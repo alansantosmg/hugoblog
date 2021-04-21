@@ -20,13 +20,13 @@ featuredImage = "/img/golang.png"
 
 Precisamos conversar sobre Slices em Go!
 
-Quem começou a estudar Go, deve ter noção de que nessa linguagem,os slices tem papel mais importante do que os arrays como entidade de armazenamento de dados. 
+Quem começou a estudar Go deve ter noção de que nessa linguagem, os slices tem papel mais importante do que os arrays como entidade de armazenamento de dados. 
 
-Na prática, o programador vai lidar o tempo todo com slices, enquanto os arrays, são criados de forma subjacente pela linguagem. 
+Na prática, o programador vai lidar o tempo todo com slices, enquanto os arrays  são criados de forma subjacente pela linguagem. 
 
-Trabalhar com slices é fácil. É algo bem parecido com o que fazemos em outras linguagens de programação, mas não se engane, existem diferenças importantes que desconsideradas, podem trazer grandes dores de cabeça. 
+Trabalhar com slices é fácil. É algo bem parecido com o que fazemos em outras linguagens de programação, mas não se engane: existem diferenças importantes que se desconsideradas, podem trazer grandes dores de cabeça. 
 
-Hoje, vou mostrar uma dessas diferenças, que é uma verdadeira `Pegadinha do Malandro` para os mais desavisados. 
+Hoje vou mostrar uma dessas diferenças que é uma verdadeira `Pegadinha do Malandro` para os mais desavisados. 
 
 Acompanhe o raciocínio no código comentado abaixo: 
 
@@ -36,22 +36,20 @@ import "fmt"
 
 func main() {
 
-	// Cria primeiro slice com tamanho 5 e capacidade 5
-
-	// Preenche primeiro slice com dados
+	// Criamos primeiro slice com dados
 	primeiroSlice := []string{"a", "b", "c", "d", "e"}
 
-	// Mostra primeiro slice  [a b c d e]
+	// Mostramos primeiro slice  [a b c d e]
 	fmt.Println(primeiroSlice)
 
-	// Cria segundo slice com itens do primeiro slice: [a d e]
+	// Criamos segundo slice usando itens do primeiro slice: [a d e]
 	segundoSlice := append(primeiroSlice[:1], primeiroSlice[3:]...)
 
-	// Mostra segundo slice [a d e]
+	// Mostramos segundo slice [a d e]
 	fmt.Println(segundoSlice)
 
-	// Mostra novamente primeiro slice [a d e d e]
-	// Como mudou primeiro slice se ele não foi alterado?
+	// Mostramos novamente primeiro slice [a d e d e]
+	// Como mudou o primeiro slice se ele não foi alterado?
 	fmt.Println(primeiroSlice)
 
 	// Explicação - Pegadinha do malandro:
